@@ -15,3 +15,8 @@ knowledge base documentation
 ## Tools 
 * [Cycloid.io](https://www.cycloid.io/) - Operations focused DevOps framework with CI/CD pipeline
 * (https://vulnerablethings.com/) - An Internet of Things Security Foundation Vulnerability Disclosure Platform, developed in partnership with Oxford Information Labs
+
+
+### Port Scanner
+* https://gf.dev/port-scanner
+* http://www.ipv6scanner.com/cgi-bin/main.py
