@@ -8,7 +8,7 @@ knowledge base documentation
 <a name="Overview"/>
 
 ## Overview
-* https://trusttab.com/ - good source to start researching standards etc.
+* https://trusttab.com/req_tool - good source to start researching standards etc.
 
 <a name="Tools"/>
 
