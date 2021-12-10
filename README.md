@@ -1,5 +1,5 @@
-# KB
-knowledge base documentation
+## Knowledge Base
+A collection of standards and requirements. The tool is basically a large SQL file that constructs a database in MariaDB, and can be implemented locally using a application like WAMP. The PHP page collection can be stored as a local wesite e.g. http://localhost/req_tool  to make the pakage work the Config.php filr needs to be adapted to poiint to ypur local database and site directory.
 
 ## Table of contents
 * [Overview](#Overview) - how to get started with the SecDevOps topic 
