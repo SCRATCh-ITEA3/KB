@@ -1,5 +1,5 @@
 ## Knowledge Base
-A collection of standards and requirements. The tool is basically a large SQL file that constructs a database in MariaDB, and can be implemented locally using a application like WAMP. The PHP page collection can be stored as a local wesite e.g. http://localhost/req_tool  to make the pakage work the Config.php filr needs to be adapted to poiint to ypur local database and site directory.
+A collection of standards and requirements. The tool is basically a large [SQL file] that constructs a database in e.g. MariaDB, and can be implemented locally using a application like WAMP. The PHP page collection [zip file] can be stored as a local wesite e.g. http://localhost/req_tool  to make the pakage work the Config.php filr needs to be adapted to poiint to ypur local database and site directory.
 
 ## Table of contents
 * [Overview](#Overview) - how to get started with the SecDevOps topic 
@@ -20,3 +20,7 @@ A collection of standards and requirements. The tool is basically a large SQL fi
 ### Port Scanner
 * https://gf.dev/port-scanner
 * http://www.ipv6scanner.com/cgi-bin/main.py
+
+
+[SQL file]: https://github.com/SCRATCh-ITEA3/KB/tree/main/dataset
+[zip file]: https://github.com/SCRATCh-ITEA3/KB/tree/main/Req_tool_local_site
