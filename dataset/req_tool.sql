@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Dec 10, 2021 at 07:30 AM
+-- Generation Time: Feb 14, 2022 at 12:52 PM
 -- Server version: 10.5.4-MariaDB
 -- PHP Version: 7.3.21
 
@@ -5202,8 +5202,7 @@ CREATE TABLE IF NOT EXISTS `user_auth` (
 --
 
 INSERT INTO `user_auth` (`name`, `user_id`, `password`, `email`, `role`, `login_session_key`, `email_status`, `password_reset_key`, `password_expire_date`, `user_role_id`) VALUES
-('franklin44', 35, '$2y$10$xdozwXUIJ0DYSAfH9cJ0aO3t96a6k53QEmyblJMFSLEtVKM/drIEK', 'franklin@selgert.nl', 'Administrator', NULL, NULL, NULL, '2021-06-25 00:00:00', 1),
-('Scratch', 36, '$2y$10$IkLWnLXRaS7sCDCqKTjH0OW/V5stixMytOJIRPqY7eIYaJwmc57Ia', 'info@selgert.nl', 'User', NULL, NULL, NULL, '2021-06-25 00:00:00', 2),
+('Scratch', 36, '$2y$10$IkLWnLXRaS7sCDCqKTjH0OW/V5stixMytOJIRPqY7eIYaJwmc57Ia', 'info@nowhere.delta', 'User', NULL, NULL, NULL, '2021-06-25 00:00:00', 2),
 ('franklin', 37, '$2y$10$WTe6vVqRWA1vVYBQVixFa.oCFRnEU6V4w3jJysMYkrIhUylvXabIu', NULL, 'Administrator', NULL, NULL, NULL, '2021-06-25 00:00:00', 1);
 
 --
